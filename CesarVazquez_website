@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<HTML><HEAD>   
+<TITLE>Cesar Vazquez's Home Page</TITLE>
+</HEAD>
+<BODY bgcolor="#F0FFFF">
+
+<H1>Cesar Vazquez</H1> 
+<br>
+<img src="C:\Users\Cesar\Documents\Project 4\Cesar Picture.jpg" alt-"thumbnail of official portrait" width="120" height="180"><br>
+<strong>
+
+<p>
+PhD Data Science Student <br>
+<a href="http://www.utep.edu"> University of Texas at El Paso </a><br>
+<a href="http://www.math.utep.edu"> 
+  Department of Mathematical Sciences</a><br> 
+<a href="http://www.visitelpaso.com">El Paso, Texas</a>
+ </strong>
+<p>
+<strong> Email: </strong> <CODE>
+<A HREF="mailto:civazquez@miners.utep.edu">civazquez@miners.utep.edu</A>
+</CODE>  <br>
+<strong> Office:</strong><a href="bell.html"> Bell Hall</a> 100<br>
+<strong> Office hours: </strong>
+ Mon, Wed 1:30pm - 3:00pm
+<p>
+<HR>
+
+<h2>Education</h2>
+<h3>Ph.D. in Data Science</h3>
+<p>Expected Graduation Date: May 2025</p>
+<ul>
+<p>University of Texas at El Paso</p>
+</ul>
+
+<h3>M.S. in Mathematics</h3>
+<ul>
+<p>University of Texas at El Paso</p>
+<p><strong>Thesis Advisor:</strong> Professor Art Duval</p>
+<p><strong>Thesis:</strong> <a href="https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=4073&context=open_etd">Laplacian Spectra of Kneser-like Bipartite Graphs</a> </p>
+</ul>
+
+<h3>B.S. in Mathematics with minor in Secondary Education</h3>
+<ul>
+<p>University of Texas at El Paso</p>
+<p><strong>Scholarship Program:</strong> <a href="https://www.utep.edu/science/teach-math-science/Advising1/advising.html">ADP MaST Academy</a> </p>
+</ul>
+<HR>
+<h2>Projects</h2>
+<HR>
+<h2>Data Visualization Assignments</h2>
+
+
+</BODY> </HTML>  
